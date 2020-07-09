@@ -1,3 +1,6 @@
+
+![Full System](https://github.com/FabLabUChile/OpenHFNC/blob/master/IMAGES/OpenHFNC.jpg?raw=true)
+
 # OpenHFNC, Low-Cost Open-Source Alternative Device for High Flow Nasal Therapy
 Open Source High Flow Nasal Cannula (Sistema de Terapia Nasal de Alto Flujo de Código Abierto) 
 
