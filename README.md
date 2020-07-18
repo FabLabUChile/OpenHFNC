@@ -64,6 +64,6 @@ Several units must be produced.
 
 * ASI: Assembly Instructions. 
 
-* UMA: Usser Manual. 
+* UMA: User Manual. 
 
 * TEC: Technical Evaluation of Performance
