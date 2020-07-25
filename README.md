@@ -1,5 +1,5 @@
 
-![Full System](https://github.com/FabLabUChile/OpenHFNC/blob/master/IMAGES/OpenHFNC.jpg?raw=true)
+![Full System](https://github.com/FabLabUChile/OpenHFNC/blob/master/IMAGES/portada_README.png?raw=true)
 
 # OpenHFNC, Low-Cost Open-Source Alternative Device for High Flow Nasal Therapy
 Open Source High Flow Nasal Cannula (Sistema de Terapia Nasal de Alto Flujo de Código Abierto) 
@@ -12,6 +12,8 @@ Last update 2020/07/09
 Acknowledgements: We thank the collaboration of many profesionals, specially those from the Hospital Clinico Universidad de Chile and also expert advice from professionals from the Pontificia Universidad Catolica de Chile. Through the development of this project we have shared experience and knowledge about the funcioning of several components. 
 
 ### ADDITIONAL WARNINGS: This device has not been tested to meet any FDA regulation and has not been certified. 
+
+![Full System](https://github.com/FabLabUChile/OpenHFNC/blob/master/IMAGES/Render1.jpg?raw=true)
 
 
 ### MOTIVATION
@@ -64,6 +66,6 @@ Several units must be produced.
 
 * ASI: Assembly Instructions. 
 
-* UMA: Usser Manual. 
+* UMA: User Manual. 
 
 * TEC: Technical Evaluation of Performance
