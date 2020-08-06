@@ -13,7 +13,7 @@ Acknowledgements: We thank the collaboration of many profesionals, specially tho
 
 ### ADDITIONAL WARNINGS: This device has not been tested to meet any FDA regulation and has not been certified. 
 
-![Full System](https://github.com/FabLabUChile/OpenHFNC/blob/master/IMAGES/Render1.jpg?raw=true)
+![Full System](https://github.com/FabLabUChile/OpenHFNC/blob/master/IMAGES/Render2.jpeg?raw=true)
 
 
 ### MOTIVATION
